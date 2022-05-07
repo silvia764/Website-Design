@@ -1,2 +1,3 @@
 # Website-Design
-A sample website design written in HTML, CSS
+Setting: A House Plants Design Company.
+A sample website written in HTML, CSS, BOOTSTRAP
